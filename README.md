@@ -23,5 +23,5 @@ Metodologia de desenvolvimento: Cascata
 > <ul><li>Visa a adoção de controles e processos lineares rigorosos.</li>
 > <li>Uma nova etapa só pode ser começada quando as anteriores forem concluídas, para que as ações sejam orientadas gradualmente até as próximas responsabilidades previstas.</li>
 > <li>É considerado simples, já que impõe uma sequência restrita e bem dimensionada de tarefas.<br></li></ul>
-<br>
+> <br>
 > Ian Sommerville. Engenharia de Software, 9ª Edição. Pearson Education, 2011.Seção 2.1.1 O Modelo em Cascata.
