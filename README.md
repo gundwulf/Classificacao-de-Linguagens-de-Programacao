@@ -14,7 +14,9 @@ Tecnologias Utilizadas:
 5. Bases de dados : <ul><li>https://medium.com/web-development-zone/a-complete-list-of-computer-programming-languages-1d8bc5a891f</li>
                    <li>https://www.bairesdev.com/blog/top-100-programming-languages/</li>
 	            <li>SEBESTA, R.W. Conceitos de Linguagens de Programação. 5ª. Ed. Porto      Alegre: Bookman, 2003.</li>
-      	            <li>Allen B. Tucker, Robert E. Noonan. Linguagens de Programação - Princípios e Paradigmas. 2ª ed. Editora McGraw Hill. 2009.</li></ul>
+      	            <li>Allen B. Tucker, Robert E. Noonan. Linguagens de Programação - Princípios e Paradigmas. 2ª ed. Editora McGraw Hill. 2009.</li>
+		    <li>WATT, D. A. Programming Language Concepts and Paradigms. Prentice-Hall. 1990.</li>
+	            <li>Ian Sommerville. Engenharia de Software, 9ª Edição. Pearson Education, 2011.Seção 6.3 Padrões de arquitetura.</li></ul>
 
 
 
